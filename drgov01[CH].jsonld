@@ -58,13 +58,13 @@
   "body": {
     "doNotList": true,
     "givenName": {
-      "@value": "drgov01[CH]"
+      "@value": "drgov01"
     },
     "motivations": {
       "@value": ""
     },
     "objectives": {
-      "@value": ""
+      "@value": "We stand for decentralized governance on cardano."
     },
     "paymentAddress": {
       "@value": "addr1q9v8g49lm0xzvlem3wrc7a30rtxxlh2xmcq7r6cfgu2v0d6wkns86l0sqykvp3r33e23nn4n83w8ws2fuvqnwtz7nkzshsfd0w"
